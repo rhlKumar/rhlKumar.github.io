@@ -1,10 +1,10 @@
 excerpt_separator: ""
-pygments: true
+highlighter : pygments
 markdown: kramdown
 url: http://rhlKumar.github.io
 title: A blog
 email: rahulkumar.iitb@gmail.com
 author: Rahul Kumar
 description: My awesome new site
-paginate: 3
-google_analytics: 
+paginate: 1
+google_analytics: UA-65878362-1 
